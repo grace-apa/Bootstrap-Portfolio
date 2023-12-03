@@ -2,6 +2,10 @@
   background-color: transparent !important;
 }
 
+.nav-link:hover {
+  text-decoration: underline;
+}
+
 .customNav a {
   font-family: FKReg, sans-serif;
   color: white !important;
@@ -10,12 +14,19 @@
 h1 {
   font-family: FKReg, sans-serif;
   color: white;
+  margin-left: -20px;
 }
 
 .button {
   background-color: black;
   border: none;
   left: 50px;
+}
+
+.button:hover {
+  background-color: white;
+  color: black;
+  font-weight: bold;
 }
 
 .abstractBackground {
@@ -25,6 +36,11 @@ h1 {
   height: calc(80vh - 25px);
   display: flex;
   align-items: center;
-  justify-content: center;
-  background-position: top;
+  background-position: bottom;
+}
+
+.rounded {
+  max-width: 100%;
+  max-height: 300px;
+  width: auto;
 }
