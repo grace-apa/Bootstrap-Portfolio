@@ -6,3 +6,19 @@
   font-family: FKReg, sans-serif;
   color: white !important;
 }
+
+h1 {
+  font-family: FKReg, sans-serif;
+  color: rgb(198, 198, 198);
+}
+
+.abstractBackground {
+  background-image: url(../images/image4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(100vh -25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-position: top;
+}
