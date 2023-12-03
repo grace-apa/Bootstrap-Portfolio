@@ -3,7 +3,8 @@
 }
 
 .nav-link:hover {
-  text-decoration: underline;
+  text-decoration: line-through;
+  font-style: italic;
 }
 
 .customNav a {
@@ -15,6 +16,11 @@ h1 {
   font-family: FKReg, sans-serif;
   color: white;
   margin-left: -20px;
+}
+
+.workHeading {
+  text-align: center;
+  font-size: 37px;
 }
 
 .button {
