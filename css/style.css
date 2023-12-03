@@ -50,3 +50,13 @@ h1 {
   max-height: 300px;
   width: auto;
 }
+
+/* work section  */
+
+.beautyImage {
+  height: 405px;
+}
+
+.musicImage {
+  height: 380px;
+}
