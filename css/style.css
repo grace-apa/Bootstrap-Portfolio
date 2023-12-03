@@ -1,0 +1,8 @@
+.customNav {
+  background-color: transparent !important;
+}
+
+.customNav a {
+  font-family: FKReg, sans-serif;
+  color: white !important;
+}
