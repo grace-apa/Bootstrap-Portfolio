@@ -51,7 +51,17 @@ h1 {
   width: auto;
 }
 
-/* work section  */
+/* About me section */
+
+.skillsButton {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 1px 9px 1px 9px;
+}
+
+/* Work section  */
 
 .content {
   padding: 0px 200px 50px 200px;
