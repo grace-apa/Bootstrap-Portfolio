@@ -1,3 +1,5 @@
+/* navBar section */
+
 .customNav {
   background-color: transparent !important;
 }
@@ -18,10 +20,7 @@ h1 {
   margin-left: -20px;
 }
 
-.workHeading {
-  text-align: center;
-  font-size: 37px;
-}
+/* Jumbotron/hero section  */
 
 .button {
   background-color: black;
@@ -69,6 +68,11 @@ h1 {
 }
 
 /* Work section  */
+
+.workHeading {
+  text-align: center;
+  font-size: 37px;
+}
 
 .content {
   padding: 0px 200px 50px 200px;
@@ -131,4 +135,24 @@ p {
   border-radius: 10px;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+/* Footer section */
+
+.contactMe {
+  text-align: center;
+}
+
+.finalButton {
+  border-radius: 10px;
+  background-color: #222638;
+  color: white;
+  border: none;
+}
+
+.finalButton:hover {
+  background-color: white;
+  border: black;
+  color: black;
+  box-shadow: 3px 3px #ffc163 -1em 0 0.4em #6d3a72;
 }
