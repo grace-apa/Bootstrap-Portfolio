@@ -60,3 +60,13 @@ h1 {
 .musicImage {
   height: 380px;
 }
+
+.content {
+  padding: 0px 150px 150px 150px;
+  /* padding-top: 0; */
+  /* padding: 150px; */
+}
+
+.spacing {
+  padding: 0px 30px 30px 30px;
+}
