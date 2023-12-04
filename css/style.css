@@ -62,7 +62,22 @@ h1 {
 }
 
 .content {
-  padding: 0px 150px 150px 150px;
-  /* padding-top: 0; */
-  /* padding: 150px; */
+  padding: 0px 150px 50px 150px;
+}
+
+.colour {
+  background-color: black;
+  color: white;
+}
+
+.html {
+  background-color: white;
+  color: black;
+  border: none;
+}
+
+.html:hover {
+  background-color: black;
+  border: 10%;
+  border-color: white;
 }
