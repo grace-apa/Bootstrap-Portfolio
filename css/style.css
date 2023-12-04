@@ -53,12 +53,7 @@ h1 {
 
 /* work section  */
 
-.beautyImage {
-  height: 405px;
-}
-
-.musicImage {
-  height: 380px;
+.personal-photo {
 }
 
 .content {
@@ -80,4 +75,14 @@ h1 {
 
 .html:hover {
   background-color: black;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 55%;
+}
+
+p {
+  font-weight: lighter;
+  font-size: 14px;
 }
