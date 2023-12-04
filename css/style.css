@@ -62,7 +62,8 @@ h1 {
 }
 
 .content {
-  padding: 0px 150px 50px 150px;
+  padding: 0px 200px 50px 200px;
+  text-align: center;
 }
 
 .colour {
@@ -74,10 +75,9 @@ h1 {
   background-color: white;
   color: black;
   border: none;
+  padding: 2px;
 }
 
 .html:hover {
   background-color: black;
-  border: 10%;
-  border-color: white;
 }
