@@ -150,15 +150,19 @@ p {
 
 .finalButton {
   border-radius: 15px;
-  border: 2px solid black;
+  border: 3px solid black;
   padding-left: 10px;
   padding-right: 10px;
   color: black !important;
+  transition: box-shadow 0.3s ease;
 }
 
 .finalButton:hover {
   background-color: black;
-  border: #080d17;
   color: white !important;
-  box-shadow: 3px 3px #ffc163 -1em 0 0.4em #6d3a72;
+  box-shadow: 3px 3px 5px rgb(102, 18, 102);
+}
+
+.link:hover {
+  text-decoration: underline;
 }
