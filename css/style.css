@@ -144,15 +144,18 @@ p {
 }
 
 .finalButton {
-  border-radius: 10px;
-  background-color: #222638;
-  color: white;
-  border: none;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px !important;
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+  border: black !important;
+  color: black !important;
 }
 
 .finalButton:hover {
   background-color: white;
-  border: black;
+  border: #080d17;
   color: black;
   box-shadow: 3px 3px #ffc163 -1em 0 0.4em #6d3a72;
 }
