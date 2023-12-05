@@ -1,8 +1,8 @@
 ## Description
 
-My layout of my portfolio was recreated and improved using the Bootstrap CSS Framework from scratch. The goal for using Bootstrap was to minimize use of media queries. Some components have been customised using my own css.
+The layout of my portfolio was recreated and improved using Bootstrap's CSS Framework. The goal was to minimize the use of media queries. However, some components have been styled using my own customised css.
 
-The portfolio featuring the below:
+The portfolio features the below:
 
 - A navigation bar, including links that navigate to the appropriate sections on the page and links that are applicable to my portfolio.
 - A jumbotron/hero section featuring my picture and name
@@ -27,7 +27,11 @@ N/A
 
 ## Usage
 
+N/A
+
 ## Screenshot
+
+![alt text](./images/screencapture-Bootstrap-Portfolio-index.png)
 
 ## License
 
